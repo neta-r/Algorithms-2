@@ -1,4 +1,4 @@
-package LargestSumOfSunArray.circular;
+package LargestSumOfArray.circular;
 
 public class dynamicSolution {
     public static int[] largestSumOfArr (int[] arr){

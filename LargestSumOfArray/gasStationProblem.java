@@ -1,6 +1,6 @@
-package LargestSumOfSunArray;
+package LargestSumOfArray;
 
-import LargestSumOfSunArray.circular.bestInCircular;
+import LargestSumOfArray.circular.bestInCircular;
 
 public class gasStationProblem {
     public static int gasStation (int[] stations, int[] costs){

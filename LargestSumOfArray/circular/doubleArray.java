@@ -1,6 +1,6 @@
-package LargestSumOfSunArray.circular;
+package LargestSumOfArray.circular;
 
-import LargestSumOfSunArray.regular.bestSolution;
+import LargestSumOfArray.regular.bestSolution;
 
 public class doubleArray {
     public static int[] largestSumOfArr(int[] arr) {

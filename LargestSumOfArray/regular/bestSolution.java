@@ -1,4 +1,4 @@
-package LargestSumOfSunArray.regular;
+package LargestSumOfArray.regular;
 
 public class bestSolution {
     public static int LargestSumOfArray(int[] arr) {

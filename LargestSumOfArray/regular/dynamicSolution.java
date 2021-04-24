@@ -1,6 +1,5 @@
-package LargestSumOfSunArray.regular;
+package LargestSumOfArray.regular;
 
-import java.time.LocalTime;
 import java.util.Random;
 
 public class dynamicSolution {
