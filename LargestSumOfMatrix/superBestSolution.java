@@ -36,8 +36,8 @@ public class superBestSolution {
             }
         }
         return max;
-
     }
+
     public static void main(String[] args) {
         int[][] mat = {{1,2,3},
                 {-3,4,5},
