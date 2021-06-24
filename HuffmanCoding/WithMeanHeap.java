@@ -1,7 +1,5 @@
 package HuffmanCoding;
 
-import java.util.ArrayList;
-
 public class WithMeanHeap {
     public static String[][] huffman(char[] chars, int[] percentage) {
         int[][] mat = getMat(chars, percentage);
